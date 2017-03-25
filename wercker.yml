@@ -1,1 +1,1 @@
-git clone -q --branch=master https://github.com/yagop/node-telegram-bot-api.git
+git clon https://github.com/yagop/node-telegram-bot-api.git
